@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "angular-prime-ng-app"
+  "defaultProject": "angular-prime-ng-app",
+  "cli": {
+    "analytics": false
+  }
 }
